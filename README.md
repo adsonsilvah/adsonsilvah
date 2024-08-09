@@ -20,7 +20,7 @@ I'm Adson a Junior Software Engineer. Experienced both in Front-end and Back-end
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
 
 ### Bizness
-- :paperclip: [My Resume/CV]()
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1wncwJ9yPBQdHqMEAuZPH3c5kS_stGM0H/view?usp=sharing)
 - :email: adsonsilva.dev@gmail.com
 
 ### My stats ⭐
