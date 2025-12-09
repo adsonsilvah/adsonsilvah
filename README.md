@@ -1,16 +1,24 @@
-## Hi there 👋
+### Olá! Eu sou o Adson 👋
 
-<!--
-**adsonsilvah/adsonsilvah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Dados | Licenciado em Computação | Entusiasta de Educação & Tecnologia**
 
-Here are some ideas to get you started:
+Atualmente, unindo a lógica da programação com a didática do ensino para transformar dados complexos em histórias claras e decisões de negócio. Acredito que a análise de dados só é valiosa quando é compreendida.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Cinto de Utilidades (Tech Stack)
+
+**Análise de Dados & ETL**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=oracle&logoColor=white)
+![Orange](https://img.shields.io/badge/-Orange_Data_Mining-FF6600?style=flat&logo=orange&logoColor=white)
+
+**Visualização & Dashboards**
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&logoColor=white)
+
+**Outros**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
