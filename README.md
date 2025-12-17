@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Adson 👋
 
-**Analista de Dados | Licenciado em Computação | Entusiasta de Educação & Tecnologia**
-
-Atualmente, unindo a lógica da programação com a didática do ensino para transformar dados complexos em histórias claras e decisões de negócio. Acredito que a análise de dados só é valiosa quando é compreendida.
+**Analista de Dados | Licenciado em Computação**
 
 ---
 
