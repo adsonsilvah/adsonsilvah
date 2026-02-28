@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Adson 👋
 
-**Analista de Dados | Licenciado em Computação**
+**Analista de Dados | Graduado em Computação**
 
 ---
 
