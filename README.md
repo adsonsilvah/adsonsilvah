@@ -1,22 +1,42 @@
-### Olá! Eu sou o Adson 👋
+# Olá, eu sou Adson Henrique 👋 
+**Analista de Dados | Eficiência Operacional & Business Intelligence**
 
-**Analista de Dados | Graduado em Computação**
+Com mais de 3 anos de experiência atuando em análise de dados, Business Intelligence e pesquisa em Learning Analytics, meu foco é conectar eficiência a insights estratégicos. 
+
+Sou graduado em Ciência da Computação pela UPE e Técnico em Informática pelo IFPE, e trabalho para consolidar a cultura *Data Driven* nos ambientes em que atuo.
 
 ---
 
-### 🛠️ Cinto de Utilidades (Tech Stack)
+### 💻 Tecnologias e Ferramentas
 
-**Análise de Dados & ETL**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=oracle&logoColor=white)
-![Orange](https://img.shields.io/badge/-Orange_Data_Mining-FF6600?style=flat&logo=orange&logoColor=white)
+* **Linguagens de Programação:** Python, SQL (PL/SQL, Oracle), JavaScript e Java.
+  <br>
+  <br>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Visualização & Dashboards**
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&logoColor=white)
+* **Análise de Dados & BI:** Pandas, Plotly, Power BI, pipelines de ETL/ELT, estatística aplicada e modelagem de dados.
+  <br>
+  <br>
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Outros**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+* **Infraestrutura & Versionamento:** Git, GitHub, Docker, AWS e Jupyter Notebooks.
+  <br>
+  <br>
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+* **Boas Práticas:** 100% de conformidade com a LGPD e governança de dados sensíveis.
+
+---
+
+### 📫 Como me encontrar
+
+* **LinkedIn:** [adsonhenriquee](https://www.linkedin.com/in/adsonhenriquee)
+* **E-mail:** adsonsilva.dev@gmail.com
